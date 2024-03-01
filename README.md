@@ -1,4 +1,4 @@
-![image](https://github.com/quadri-usman/social-buzz-data/assets/105228467/65ca8a56-1b11-48da-93b9-1cd95f7c20b3)# Social Buzz
+# Social Buzz
 # Social Buzz is a fast growing technology unicorn that needs to adapt quickly to its global scale. Accenture has begun a 3 month POC focusing on these tasks
 ## Audit of big data practice
 ## Recommendations for a successful IPO
